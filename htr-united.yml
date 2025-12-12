@@ -1,0 +1,87 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: HTR Winter School 2025 - Medieval Czech - Biblioteka Jagiellonska BJ Rkp 441 IV
+url: https://github.com/HTR-School-Vienna/2025--medieval-czech
+description: Ground Truth from manuscript BJ Rkp. 441 IV, manually transcribed.
+language:
+  - ces
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1531'
+  notAfter: '1531'
+hands:
+  count: '1'
+  precision: estimated
+volume:
+  - count: 0
+    metric: pages
+license:
+  name: CC-BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+format: Page-XML
+automatically-aligned: false
+production-software: Transkribus
+authors:
+  - name: Vika
+    surname: Veličkaitė
+    orcid: 0009-0005-1003-7602
+  - name: Anna
+    surname: Michalcová
+    orcid: 0000-0003-4760-6950
+  - name: Laura
+    surname: Landová
+    orcid: 0009-0000-5131-0680
+  - name: 'Michaela '
+    surname: Reimannová
+    orcid: 0009-0008-4468-6063
+  - name: Diana
+    surname: Kostelníková
+    orcid: 0009-0009-2346-0556
+  - name: Andrej
+    surname: Kostelník
+    orcid: 0009-0007-2717-3234
+  - name: 'Marie '
+    surname: Urbánková
+    orcid: 0009-0006-3954-930X
+  - name: Veronika
+    surname: Jakubcová
+    orcid: 0009-0007-4090-8872
+  - name: Tereza
+    surname: Hejdová
+    orcid: 0000-0003-3998-8880
+  - name: Anna
+    surname: Javoříková
+    orcid: 0009-0002-3919-3711
+  - name: Markéta
+    surname: Pytlíková
+    orcid: 0000-0002-1017-2071
+  - name: 'Kateřina '
+    surname: Kozlovská
+    orcid: 0009-0005-5205-7943
+  - name: Jan
+    surname: Dušek
+    orcid: 0000-0001-7685-1483
+  - name: Barbora
+    surname: Doušková
+    orcid: 0009-0006-7740-5665
+  - name: Karolína
+    surname: Švecová
+    orcid: 0009-0002-8399-3548
+  - name: Veronika
+    surname: Nová
+  - name: Jitka
+    surname: Filipová
+    orcid: 0000-0002-3570-4038
+  - name: 'Věra '
+    surname: Soukupová
+    orcid: 0000-0001-7126-6840
+  - name: Eliška
+    surname: Pěnkavová
+    orcid: 0000-0002-5494-8847
+  - name: Daniel
+    surname: Katscher
+    orcid: 0009-0008-3475-2522
+  - name: Martina
+    surname: Spěváčková
+    orcid: 0000-0002-9357-4614

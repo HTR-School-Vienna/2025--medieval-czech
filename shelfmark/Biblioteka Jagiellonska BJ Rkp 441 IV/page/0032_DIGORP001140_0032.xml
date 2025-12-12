@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-10-23T20:27:03.678+02:00</Created>
+        <LastChange>2025-11-18T16:39:14.826+01:00</LastChange>
+        <TranskribusMetadata docId="11628000" pageId="104808828" pageNr="32" tsid="261962947" status="GT" userId="100969" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=GVICFNSDTIPGQGXBICHCNNOT" xmlUrl="https://files.transkribus.eu/Get?id=RTDBJHQJIEDLCPIOENCCUYMH" imageId="87948563"/>
+    </Metadata>
+    <Page imageFilename="0032_DIGORP001140_0032.jpg" imageWidth="3756" imageHeight="5295">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1765440144185" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="689,583 3139,583 3139,4507 689,4507"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1169,748 2416,752 2419,624 1182,584"/>
+                <Baseline points="1169,748 2416,752"/>
+                <TextEquiv>
+                    <Unicode>O položeni Zemie Morawſke A O </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_1" custom="readingOrder {index:1;}">
+                <Coords points="1241,853 2393,866 2403,761 1195,761"/>
+                <Baseline points="1241,853 2393,866"/>
+                <TextEquiv>
+                    <Unicode>Swatoplǔkowi krali gegiem Kteryz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_2" custom="readingOrder {index:2;}">
+                <Coords points="1250,962 2387,954 2397,881 1234,870"/>
+                <Baseline points="1250,962 2387,954"/>
+                <TextEquiv>
+                    <Unicode>take prwnim kržeſtanem mezy Mo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:3;} abbrev {offset:28; length:2;expansion:swateho;} textStyle {offset:29; length:1;superscript}">
+                <Coords points="1256,1057 2419,1045 2412,959 1246,984"/>
+                <Baseline points="1256,1057 2419,1045"/>
+                <TextEquiv>
+                    <Unicode>rawſkẏmi byl uczinien ſkrze So Cirylla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:4;}">
+                <Coords points="2618,1157 2651,1160 3004,1158 3014,1047 2904,1060 2815,1062 2764,1003 2693,1022 2631,1035"/>
+                <Baseline points="2645,1152 2645,1151 2719,1152 3015,1158"/>
+                <TextEquiv>
+                    <Unicode>watoplǔk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_5" custom="readingOrder {index:5;}">
+                <Coords points="2653,1250 2923,1247 2926,1174 2643,1174"/>
+                <Baseline points="2653,1250 2923,1247"/>
+                <TextEquiv>
+                    <Unicode>toho cza¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_6" custom="readingOrder {index:6;}">
+                <Coords points="2638,1359 2938,1353 2944,1257 2630,1263"/>
+                <Baseline points="2638,1359 2938,1353"/>
+                <TextEquiv>
+                    <Unicode>ſǔ w Mo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_7" custom="readingOrder {index:7;} abbrev {offset:12; length:5;expansion:kralem;}">
+                <Coords points="2330,1460 2932,1457 2935,1375 2333,1374"/>
+                <Baseline points="2330,1460 2932,1457"/>
+                <TextEquiv>
+                    <Unicode>rawſke zemi krale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:8;}">
+                <Coords points="2324,1555 2922,1559 2935,1470 2324,1479"/>
+                <Baseline points="2324,1555 2922,1559"/>
+                <TextEquiv>
+                    <Unicode>byl krzieſtianſske¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:9;}">
+                <Coords points="2316,1666 2933,1659 2933,1577 2316,1574"/>
+                <Baseline points="2316,1666 2933,1659"/>
+                <TextEquiv>
+                    <Unicode>ho nabozenſtwij pi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:10;}">
+                <Coords points="2338,1753 2915,1762 2922,1676 2318,1687"/>
+                <Baseline points="2338,1753 2915,1762"/>
+                <TextEquiv>
+                    <Unicode>len gſa Ta zemie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:11;}">
+                <Coords points="2309,1858 2939,1858 2936,1779 2296,1772"/>
+                <Baseline points="2309,1858 2939,1858"/>
+                <TextEquiv>
+                    <Unicode>Morawſka do dǔna¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:12;}">
+                <Coords points="2316,1963 2926,1965 2926,1883 2296,1887"/>
+                <Baseline points="2316,1963 2926,1965"/>
+                <TextEquiv>
+                    <Unicode>ge lezij, magicz stee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_13" custom="readingOrder {index:13;}">
+                <Coords points="2305,2063 2929,2056 2926,1987 2305,1967"/>
+                <Baseline points="2305,2063 2929,2056"/>
+                <TextEquiv>
+                    <Unicode>stranẏ na wychod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:14;}">
+                <Coords points="2320,2165 2912,2159 2909,2070 2313,2083"/>
+                <Baseline points="2320,2165 2912,2159"/>
+                <TextEquiv>
+                    <Unicode>slǔncze vherſke A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:15;}">
+                <Coords points="2308,2264 2933,2262 2930,2180 2308,2188"/>
+                <Baseline points="2308,2264 2933,2262"/>
+                <TextEquiv>
+                    <Unicode>polſke kralowſtwij </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:16;}">
+                <Coords points="2326,2378 2892,2378 2915,2286 2323,2299"/>
+                <Baseline points="2326,2378 2892,2378"/>
+                <TextEquiv>
+                    <Unicode>morawau rzekaǔ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:17;}">
+                <Coords points="2329,2489 2921,2489 2918,2403 2326,2397"/>
+                <Baseline points="2329,2489 2921,2489"/>
+                <TextEquiv>
+                    <Unicode>ſe dieliczẏ ſ nimi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:18;}">
+                <Coords points="2343,2597 2930,2603 2933,2504 2323,2511"/>
+                <Baseline points="2343,2597 2930,2603"/>
+                <TextEquiv>
+                    <Unicode>od kterezto rzekẏ ta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:19;}">
+                <Coords points="715,2715 1262,2711 2062,2711 2521,2707 2925,2699 2924,2626 2501,2615 2055,2606 1233,2627 712,2622"/>
+                <Baseline points="715,2715 1262,2711 2062,2711 2521,2707 2925,2699"/>
+                <TextEquiv>
+                    <Unicode>zemie gmeno ma Na zapad od ſlǔncze lezij Czechowee · Rakuſſane napo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:20;}">
+                <Coords points="726,2808 1387,2812 2043,2816 2641,2812 2913,2816 2920,2727 2592,2733 2010,2730 1361,2739 697,2732"/>
+                <Baseline points="726,2808 1387,2812 2043,2816 2641,2812 2913,2816"/>
+                <TextEquiv>
+                    <Unicode>ledne Puolnocznij stranǔ gegie Slezaczẏ oſahli To kralowſtvwije</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_21" custom="readingOrder {index:21;}">
+                <Coords points="703,2940 2093,2909 2960,2917 2950,2835 2077,2833 691,2836"/>
+                <Baseline points="703,2940 2093,2909 2960,2917"/>
+                <TextEquiv>
+                    <Unicode>Morawſke za mnoha letha trwalo, polaczẏ y rǔſowe k niemǔ ſu przi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:22;}">
+                <Coords points="717,3022 1850,3012 2521,3012 2952,3022 2973,2933 2528,2933 1850,2930 706,2958"/>
+                <Baseline points="717,3022 1850,3012 2521,3012 2952,3022"/>
+                <TextEquiv>
+                    <Unicode>ſluſſeli Takez ẏ Czeſke knijze temuz krali poddano bẏlo Toho czasǔ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:23;} abbrev {offset:33; length:2;expansion:gest;}">
+                <Coords points="727,3132 1437,3118 2073,3114 2913,3135 2934,3049 2037,3028 1428,3037 726,3039"/>
+                <Baseline points="727,3132 1437,3118 2073,3114 2913,3135"/>
+                <TextEquiv>
+                    <Unicode>Stolicze kralowſka na Welegradie ḡt bẏla Tento kral Swato¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:24;} abbrev {offset:34; length:4;expansion:Potom;}">
+                <Coords points="703,3231 1730,3231 2528,3231 2895,3231 2915,3155 2485,3135 1681,3135 703,3152"/>
+                <Baseline points="703,3231 1730,3231 2528,3231 2895,3231"/>
+                <TextEquiv>
+                    <Unicode>plǔk dlǔhẏ cžas sczaſnie kraloval Potō Arnolfowi Czẏſarzi rzim¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:25;}">
+                <Coords points="722,3341 1230,3337 1653,3332 2093,3324 2461,3311 2862,3328 2905,3332 2911,3266 2815,3255 2405,3248 1997,3242 1591,3256 1204,3258 722,3251"/>
+                <Baseline points="722,3341 1230,3337 1653,3332 2093,3324 2461,3311 2862,3328 2905,3332"/>
+                <TextEquiv>
+                    <Unicode>ſkemǔ gſa gemǔ poddan danij dawati nechtiel A niekterzij prawi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:26;}">
+                <Coords points="730,3538 1181,3538 1589,3531 1934,3534 2241,3523 2583,3523 2936,3523 2923,3431 2534,3444 2165,3441 1849,3445 1419,3445 1181,3465 724,3459"/>
+                <Baseline points="730,3538 1181,3538 1589,3531 1934,3534 2241,3523 2583,3523 2936,3523"/>
+                <TextEquiv>
+                    <Unicode>Pro kterǔzto wiecz ten giſtẏ Czẏſarz ſebraw welikee woẏſko z niemecz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:27;} abbrev {offset:25; length:2;expansion:gest;} abbrev {offset:62; length:2;expansion:gest;}">
+                <Coords points="730,3643 1390,3639 1930,3639 2540,3632 2878,3643 2915,3554 2343,3527 1835,3557 1374,3557 719,3556"/>
+                <Baseline points="730,3643 1390,3639 1930,3639 2540,3632 2878,3643"/>
+                <TextEquiv>
+                    <Unicode> kẏch zemi ẏ z vher tahl ḡt na nieho Kral pak Swatoplǔk wygel ḡt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_29" custom="readingOrder {index:28;}">
+                <Coords points="746,3744 1620,3740 2062,3736 2342,3740 2610,3744 2913,3760 2925,3642 2542,3665 2224,3654 1836,3663 1525,3664 740,3657"/>
+                <Baseline points="746,3744 1620,3740 2062,3736 2342,3740 2610,3744 2913,3760"/>
+                <TextEquiv>
+                    <Unicode>proti niemǔ s ſwẏm lidem a bitwǔ s nim zaczal · potom wida zě ſwi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:29;}">
+                <Coords points="730,3849 1624,3845 1992,3857 2358,3853 2664,3865 2921,3872 2932,3776 2590,3766 2243,3748 1845,3761 1493,3756 713,3773"/>
+                <Baseline points="730,3849 1624,3845 1992,3857 2358,3853 2664,3865 2921,3872"/>
+                <TextEquiv>
+                    <Unicode>tiezẏti a proti niemǔ praw byti nemǔoz · zaloſtiw ſa s proſtrzed woy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:30;} abbrev {offset:27; length:2;expansion:gest;} textStyle {offset:63; length:1;superscript}">
+                <Coords points="734,3969 1262,3958 1608,3954 1892,3969 2194,3966 2435,3963 2680,3966 2921,3981 2923,3951 2627,3901 2281,3870 2017,3873 1724,3865 1486,3873 1113,3868 727,3856"/>
+                <Baseline points="734,3969 1262,3958 1608,3954 1892,3969 2194,3966 2424,3969 2680,3966 2921,3981"/>
+                <TextEquiv>
+                    <Unicode>ſka kradmo do welegradǔ ſe ḡt wratil Czẏsarz za nim do zemie geo tahl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_32" custom="readingOrder {index:31;} abbrev {offset:47; length:3;expansion:gest;}">
+                <Coords points="726,4074 1344,4070 1740,4070 2012,4067 2315,4090 2505,4082 2703,4094 2890,4082 2888,4001 2666,3998 2388,3989 2253,4011 1996,4000 1694,3991 1295,3986 720,3993"/>
+                <Baseline points="726,4074 1344,4070 1740,4070 2012,4067 2315,4090 2505,4082 2703,4094 2890,4082"/>
+                <TextEquiv>
+                    <Unicode>On pak taẏnie zmieniw odiew a wſed na kǔon gel ḡt do puſtych le¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_33" custom="readingOrder {index:32;}">
+                <Coords points="746,4202 1383,4195 1674,4187 1969,4191 2257,4191 2505,4187 2839,4202 2921,4202 2921,4121 2771,4112 2451,4108 2243,4098 1963,4098 1688,4103 1365,4105 743,4101"/>
+                <Baseline points="746,4202 1383,4195 1674,4187 1969,4191 2257,4191 2505,4187 2839,4202 2921,4202"/>
+                <TextEquiv>
+                    <Unicode>sǔow, az na gednǔ wyſokǔ horu, giezto Remboth rzekagij, kdezto trzij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:33;}">
+                <Coords points="753,4303 1317,4303 1748,4296 1954,4288 2059,4311 2229,4311 2494,4311 2699,4319 2870,4315 2883,4242 2753,4229 2595,4227 2326,4215 2093,4204 1957,4209 1736,4206 1311,4216 739,4222"/>
+                <Baseline points="753,4303 1317,4303 1748,4296 1954,4288 2059,4311 2229,4311 2494,4311 2699,4319 2870,4315"/>
+                <TextEquiv>
+                    <Unicode>puſteniczy przebẏwachǔ Od nychzto aby nebyl poznan kǔon ſwoẏ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_35" custom="readingOrder {index:34;}">
+                <Coords points="738,4412 1352,4424 1604,4424 1958,4412 2226,4416 2509,4420 2785,4428 2952,4432 2950,4322 2780,4344 2507,4347 2235,4346 1947,4328 1600,4328 1315,4334 739,4348"/>
+                <Baseline points="738,4412 1352,4424 1604,4424 1792,4412 1958,4412 2226,4416 2509,4420 2785,4428 2952,4432"/>
+                <TextEquiv>
+                    <Unicode>prwe nez mezẏ nie przyſſel zabil a mecz w zemi zakopal A Tak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

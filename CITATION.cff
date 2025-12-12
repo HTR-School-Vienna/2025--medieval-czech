@@ -1,0 +1,143 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  HTR Winter School 2025 - Medieval Czech - Biblioteka
+  Jagiellonska BJ Rkp 441 IV
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Vika
+    family-names: Veličkaitė
+    orcid: 'https://orcid.org/0009-0005-1003-7602'
+    email: 7alamandra@gmail.com
+    affiliation: 'Vytautas Magnus University: Kaunas, LT'
+  - given-names: Anna
+    family-names: Michalcová
+    email: Anna.Michalcova@oeaw.ac.at
+    orcid: 'https://orcid.org/0000-0003-4760-6950'
+    affiliation: >-
+      Czech Academy of Sciences, Czech Language Institute:
+      Prague, CZ
+  - given-names: Laura
+    family-names: Landová
+    email: lauralandova0123@gmail.com
+    orcid: 'https://orcid.org/0009-0000-5131-0680'
+    affiliation: >-
+      Comenius University Bratislava: Bratislava, Bratislava
+      Region, SK
+  - given-names: 'Michaela '
+    orcid: 'https://orcid.org/0009-0008-4468-6063'
+    affiliation: >-
+      Comenius University Bratislava: Bratislava, Bratislava
+      Region, SK
+    email: m.reimannova@gmail.com
+    family-names: Reimannová
+  - given-names: Diana
+    family-names: Kostelníková
+    orcid: 'https://orcid.org/0009-0009-2346-0556'
+    email: dianakostelnikova@gmail.com
+    affiliation: 'University of Prešov: Prešov, Prešov Region, SK'
+  - given-names: Andrej
+    family-names: Kostelník
+    email: akostelnik23@gmail.com
+    affiliation: 'University of Prešov: Prešov, Prešov Region, SK'
+    orcid: 'https://orcid.org/0009-0007-2717-3234'
+  - given-names: 'Marie '
+    orcid: 'https://orcid.org/0009-0006-3954-930X'
+    affiliation: 'Masarykova univerzita: Brno, South Moravian, CZ'
+    email: marie.bartakov@gmail.com
+    family-names: Urbánková
+  - given-names: Veronika
+    family-names: Jakubcová
+    orcid: 'https://orcid.org/0009-0007-4090-8872'
+    affiliation: 'Masaryk University: Brno, South Moravian, CZ'
+    email: jakubcovav@email.cz
+  - given-names: Tereza
+    family-names: Hejdová
+    orcid: 'https://orcid.org/0000-0003-3998-8880'
+    affiliation: >-
+      Czech Academy of Sciences, Czech Language Institute:
+      Prague, CZ
+    email: hejdovat@gmail.com
+  - given-names: Anna
+    family-names: Javoříková
+    orcid: 'https://orcid.org/0009-0002-3919-3711'
+    email: ajjavorikova@gmail.com
+    affiliation: 'Charles University, Prague, CZ'
+  - family-names: Pytlíková
+    given-names: Markéta
+    orcid: 'https://orcid.org/0000-0002-1017-2071'
+    affiliation: >-
+      Czech Language Institute of the Czech Academy of
+      Sciences: Prague, Prague, CZ
+    email: marketapy@gmail.com
+  - given-names: 'Kateřina '
+    orcid: 'https://orcid.org/0009-0005-5205-7943'
+    email: katerina.kozlovska@seznam.cz
+    family-names: Kozlovská
+    affiliation: 'Masaryk University: Brno, South Moravian, CZ'
+  - given-names: Jan
+    family-names: Dušek
+    orcid: 'https://orcid.org/0000-0001-7685-1483'
+    affiliation: >-
+      Czech Language Institute of the Czech Academy of
+      Science: Prague, CZ
+    email: harry.dusek@seznam.cz
+  - family-names: Doušková
+    given-names: Barbora
+    orcid: 'https://orcid.org/0009-0006-7740-5665'
+    email: douskovabarbora@gmail.com
+    affiliation: >-
+      Cyrilometodějské gymnázium a střední odborná škola
+      pedagogická Brno
+  - given-names: Karolína
+    family-names: Švecová
+    orcid: 'https://orcid.org/0009-0002-8399-3548'
+    email: kaja.a.svecova@gmail.com
+    affiliation: 'Charles University in Prague: Prague, Prague, CZ'
+  - given-names: Veronika
+    family-names: Nová
+    affiliation: University of West Bohemia in Pilsen
+    email: verunova@students.zcu.cz
+  - given-names: Jitka
+    family-names: Filipová
+    affiliation: >-
+      Czech Academy of Sciences, Czech Language Institute:
+      Prague, CZ
+    email: j.filipova@ujc.cas.cz
+    orcid: 'https://orcid.org/0000-0002-3570-4038'
+  - given-names: 'Věra '
+    family-names: Soukupová
+    orcid: 'https://orcid.org/0000-0001-7126-6840'
+    affiliation: >-
+      Ústav pro českou literaturu Akademie věd České
+      republiky: Praha, Praha, CZ
+    email: veramarie.vejrychova@gmail.com
+  - given-names: Eliška
+    family-names: Pěnkavová
+    orcid: 'https://orcid.org/0000-0002-5494-8847'
+    affiliation: >-
+      University of South Bohemia in České Budějovice: České
+      Budějovice, Jihočeský kraj, CZ
+    email: penkavova.eliska@email.cz
+  - given-names: Daniel
+    family-names: Katscher
+    orcid: 'https://orcid.org/0009-0008-3475-2522'
+    affiliation: 'University of Vienna: Vienna, Vienna, AT'
+    email: daniel.katscher.wien@gmail.com
+  - family-names: Spěváčková
+    given-names: Martina
+    orcid: 'https://orcid.org/0000-0002-9357-4614'
+    affiliation: 'University of West Bohemia: Pilsen, CZ'
+    email: spevacko@kcj.zcu.cz
+abstract: >-
+  Ground Truth from manuscript BJ Rkp. 441 IV, manually
+  transcribed.
+keywords:
+  - Medieval Czech
+license: CC-BY-SA-4.0
+date-released: '2025-12-12'
