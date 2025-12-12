@@ -84,6 +84,7 @@ Number of transcribed pages is listed above.
 
 This dataset was created by Barbora Doušková, Jan Dušek, Jitka Filipová, Marie Hedvíková, Tereza Hejdová, Veronika Jakubcová, Anna Javoříková, Daniel Katscher Andrej Kostelník, Diana Kostelníková, Kateřina Kozlovská, Laura Landová, Jana Mešková, Anna Michalcová, Veronika Nová, Eliška Pěnkavová, Markéta Pytlíková, Michal Racyn, Michaela Reimannová, Věra Soukupová, Martina Spěváčková, Karolina Švecová, Marie Urbánková, Vika Veličkaite. The digitisation is not copyright free, but the transcription is. However, properly annotating a corpus takes time and is a task that should be recognised. If you use any item from this corpus as ground truth, cite the dataset using the following information
 ```
+<!-- Copy citation BibTeX from Zenodo 10.5281/zenodo.17910066 -->
 ```
 
 ## Copyright and licence
