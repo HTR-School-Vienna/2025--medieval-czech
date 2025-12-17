@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:mets xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:ns3="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OBJID="10933959" LABEL="LON_BL. Or. 10037_Mishneh-Torah" PROFILE="TRP_V1" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+  <ns3:metsHdr CREATEDATE="2025-12-17T15:47:44.182Z">
+    <ns3:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <ns3:name>METS Master Tool</ns3:name>
+    </ns3:agent>
+  </ns3:metsHdr>
+ 
+  <ns3:fileSec>
+    <ns3:fileGrp USE="DEFAULT">
+      <ns3:file ID="IMG_1" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0010_DIGORP001140_0010.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_2" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0011_DIGORP001140_0011.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_3" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0012_DIGORP001140_0012.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_4" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0013_DIGORP001140_0013.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_5" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0014_DIGORP001140_0014.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_6" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0016_DIGORP001140_0016.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_7" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0018_DIGORP001140_0018.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_8" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0019_DIGORP001140_0019.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_9" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0020_DIGORP001140_0020.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_10" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0022_DIGORP001140_0022.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_11" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0023_DIGORP001140_0023.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_12" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0024_DIGORP001140_0024.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_13" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0025_DIGORP001140_0025.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_14" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0026_DIGORP001140_0026.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_15" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0027_DIGORP001140_0027.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_16" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0028_DIGORP001140_0028.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_17" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0029_DIGORP001140_0029.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_18" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0031_DIGORP001140_0031.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_19" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0032_DIGORP001140_0032.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_20" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0034_DIGORP001140_0034.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_21" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0035_DIGORP001140_0035.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_22" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0036_DIGORP001140_0036.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_23" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0037_DIGORP001140_0037.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_24" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0038_DIGORP001140_0038.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_25" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0039_DIGORP001140_0039.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_26" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0040_DIGORP001140_0040.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_27" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0041_DIGORP001140_0041.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_28" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0042_DIGORP001140_0042.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_29" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0043_DIGORP001140_0043.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_30" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0045_DIGORP001140_0045.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_31" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0046_DIGORP001140_0046.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_32" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0047_DIGORP001140_0047.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_33" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0048_DIGORP001140_0048.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_34" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0049_DIGORP001140_0049.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_35" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0050_DIGORP001140_0050.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_36" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0052_DIGORP001140_0052.jpg"/>
+      </ns3:file>
+      <ns3:file ID="IMG_37" MIMETYPE="image/jpeg">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./images/0053_DIGORP001140_0053.jpg"/>
+      </ns3:file>
+    </ns3:fileGrp>
+    <ns3:fileGrp USE="PAGEXML">
+      <ns3:file ID="PXML_1" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0010_DIGORP001140_0010.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_2" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0011_DIGORP001140_0011.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_3" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0012_DIGORP001140_0012.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_4" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0013_DIGORP001140_0013.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_5" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0014_DIGORP001140_0014.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_6" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0016_DIGORP001140_0016.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_7" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0018_DIGORP001140_0018.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_8" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0019_DIGORP001140_0019.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_9" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0020_DIGORP001140_0020.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_10" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0022_DIGORP001140_0022.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_11" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0023_DIGORP001140_0023.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_12" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0024_DIGORP001140_0024.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_13" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0025_DIGORP001140_0025.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_14" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0026_DIGORP001140_0026.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_15" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0027_DIGORP001140_0027.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_16" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0028_DIGORP001140_0028.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_17" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0029_DIGORP001140_0029.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_18" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0031_DIGORP001140_0031.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_19" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0032_DIGORP001140_0032.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_20" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0034_DIGORP001140_0034.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_21" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0035_DIGORP001140_0035.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_22" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0036_DIGORP001140_0036.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_23" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0037_DIGORP001140_0037.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_24" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0038_DIGORP001140_0038.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_25" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0039_DIGORP001140_0039.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_26" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0040_DIGORP001140_0040.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_27" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0041_DIGORP001140_0041.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_28" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0042_DIGORP001140_0042.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_29" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0043_DIGORP001140_0043.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_30" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0045_DIGORP001140_0045.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_31" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0046_DIGORP001140_0046.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_32" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0047_DIGORP001140_0047.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_33" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0048_DIGORP001140_0048.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_34" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0049_DIGORP001140_0049.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_35" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0050_DIGORP001140_0050.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_36" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0052_DIGORP001140_0052.xml"/>
+      </ns3:file>
+      <ns3:file ID="PXML_37" MIMETYPE="text/xml">
+        <ns3:FLocat LOCTYPE="URL" ns2:href="./page/0053_DIGORP001140_0053.xml"/>
+      </ns3:file>
+    </ns3:fileGrp>
+  </ns3:fileSec>
+  <ns3:structMap TYPE="PHYSICAL">
+    <ns3:div TYPE="physSequence">
+      <ns3:div ORDER="1" LABEL="Page 1" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_1"/>
+        <ns3:fptr FILEID="PXML_1"/>
+      </ns3:div>
+      <ns3:div ORDER="2" LABEL="Page 2" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_2"/>
+        <ns3:fptr FILEID="PXML_2"/>
+      </ns3:div>
+      <ns3:div ORDER="3" LABEL="Page 3" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_3"/>
+        <ns3:fptr FILEID="PXML_3"/>
+      </ns3:div>
+      <ns3:div ORDER="4" LABEL="Page 4" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_4"/>
+        <ns3:fptr FILEID="PXML_4"/>
+      </ns3:div>
+      <ns3:div ORDER="5" LABEL="Page 5" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_5"/>
+        <ns3:fptr FILEID="PXML_5"/>
+      </ns3:div>
+      <ns3:div ORDER="6" LABEL="Page 6" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_6"/>
+        <ns3:fptr FILEID="PXML_6"/>
+      </ns3:div>
+      <ns3:div ORDER="7" LABEL="Page 7" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_7"/>
+        <ns3:fptr FILEID="PXML_7"/>
+      </ns3:div>
+      <ns3:div ORDER="8" LABEL="Page 8" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_8"/>
+        <ns3:fptr FILEID="PXML_8"/>
+      </ns3:div>
+      <ns3:div ORDER="9" LABEL="Page 9" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_9"/>
+        <ns3:fptr FILEID="PXML_9"/>
+      </ns3:div>
+      <ns3:div ORDER="10" LABEL="Page 10" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_10"/>
+        <ns3:fptr FILEID="PXML_10"/>
+      </ns3:div>
+      <ns3:div ORDER="11" LABEL="Page 11" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_11"/>
+        <ns3:fptr FILEID="PXML_11"/>
+      </ns3:div>
+      <ns3:div ORDER="12" LABEL="Page 12" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_12"/>
+        <ns3:fptr FILEID="PXML_12"/>
+      </ns3:div>
+      <ns3:div ORDER="13" LABEL="Page 13" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_13"/>
+        <ns3:fptr FILEID="PXML_13"/>
+      </ns3:div>
+      <ns3:div ORDER="14" LABEL="Page 14" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_14"/>
+        <ns3:fptr FILEID="PXML_14"/>
+      </ns3:div>
+      <ns3:div ORDER="15" LABEL="Page 15" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_15"/>
+        <ns3:fptr FILEID="PXML_15"/>
+      </ns3:div>
+      <ns3:div ORDER="16" LABEL="Page 16" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_16"/>
+        <ns3:fptr FILEID="PXML_16"/>
+      </ns3:div>
+      <ns3:div ORDER="17" LABEL="Page 17" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_17"/>
+        <ns3:fptr FILEID="PXML_17"/>
+      </ns3:div>
+      <ns3:div ORDER="18" LABEL="Page 18" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_18"/>
+        <ns3:fptr FILEID="PXML_18"/>
+      </ns3:div>
+      <ns3:div ORDER="19" LABEL="Page 19" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_19"/>
+        <ns3:fptr FILEID="PXML_19"/>
+      </ns3:div>
+      <ns3:div ORDER="20" LABEL="Page 20" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_20"/>
+        <ns3:fptr FILEID="PXML_20"/>
+      </ns3:div>
+      <ns3:div ORDER="21" LABEL="Page 21" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_21"/>
+        <ns3:fptr FILEID="PXML_21"/>
+      </ns3:div>
+      <ns3:div ORDER="22" LABEL="Page 22" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_22"/>
+        <ns3:fptr FILEID="PXML_22"/>
+      </ns3:div>
+      <ns3:div ORDER="23" LABEL="Page 23" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_23"/>
+        <ns3:fptr FILEID="PXML_23"/>
+      </ns3:div>
+      <ns3:div ORDER="24" LABEL="Page 24" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_24"/>
+        <ns3:fptr FILEID="PXML_24"/>
+      </ns3:div>
+      <ns3:div ORDER="25" LABEL="Page 25" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_25"/>
+        <ns3:fptr FILEID="PXML_25"/>
+      </ns3:div>
+      <ns3:div ORDER="26" LABEL="Page 26" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_26"/>
+        <ns3:fptr FILEID="PXML_26"/>
+      </ns3:div>
+      <ns3:div ORDER="27" LABEL="Page 27" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_27"/>
+        <ns3:fptr FILEID="PXML_27"/>
+      </ns3:div>
+      <ns3:div ORDER="28" LABEL="Page 28" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_28"/>
+        <ns3:fptr FILEID="PXML_28"/>
+      </ns3:div>
+      <ns3:div ORDER="29" LABEL="Page 29" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_29"/>
+        <ns3:fptr FILEID="PXML_29"/>
+      </ns3:div>
+      <ns3:div ORDER="30" LABEL="Page 30" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_30"/>
+        <ns3:fptr FILEID="PXML_30"/>
+      </ns3:div>
+      <ns3:div ORDER="31" LABEL="Page 31" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_31"/>
+        <ns3:fptr FILEID="PXML_31"/>
+      </ns3:div>
+      <ns3:div ORDER="32" LABEL="Page 32" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_32"/>
+        <ns3:fptr FILEID="PXML_32"/>
+      </ns3:div>
+      <ns3:div ORDER="33" LABEL="Page 33" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_33"/>
+        <ns3:fptr FILEID="PXML_33"/>
+      </ns3:div>
+      <ns3:div ORDER="34" LABEL="Page 34" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_34"/>
+        <ns3:fptr FILEID="PXML_34"/>
+      </ns3:div>
+      <ns3:div ORDER="35" LABEL="Page 35" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_35"/>
+        <ns3:fptr FILEID="PXML_35"/>
+      </ns3:div>
+      <ns3:div ORDER="36" LABEL="Page 36" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_36"/>
+        <ns3:fptr FILEID="PXML_36"/>
+      </ns3:div>
+      <ns3:div ORDER="37" LABEL="Page 37" TYPE="PAGE">
+        <ns3:fptr FILEID="IMG_37"/>
+        <ns3:fptr FILEID="PXML_37"/>
+      </ns3:div>
+    </ns3:div>
+  </ns3:structMap>
+</ns3:mets>
