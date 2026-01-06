@@ -55,28 +55,28 @@ Source of images: Jagiellońska Biblioteka Cyfrowa https://jbc.bj.uj.edu.pl/dlib
 
 Selection of semi-diplomatic transcribed texts from the so-called Krakow, Biblioteka Jagiellońska, shelfmark BJ Rkp. 441 IV (1531). Texts were transcribed by the participants of the HTR Winter School 2025 in Vienna:
 
-Daniel Katscher: 2r; 14r
-Tereza Hejdová: 2v; 14v
-Veronika Jakubcová: 3r; 15r
-Marie Urbánková: 3v; 15v
-Jan Dušek: 4v; 16r
-Barbora Doušková: 5v; 16v
-Karolina Švecová: 6r; 17r
-Veronika Nová: 6v; 17v
-Linda Rudenka: 7r
-Martina Spěváčková: 7v; 18r
-Jana Mešková: 8r; 18v
-Markéta Pytlíková: 8v; 19r
-Laura Landová: 9r; 19v
-Michaela Reimannová: 9v; 20r
-Kateřina Kozlovská: 10r; 20v
-Vika Veličkaite: 10v; 21r
-Andrej Kostelník: 11r; 21v
-Anna Javoříková: 12r; 22r
-Diana Kostelníková: 12v; 23r
-Věra Soukupová: 13v; 23v
+* Daniel Katscher: 2r; 14r
+* Tereza Hejdová: 2v; 14v
+* Veronika Jakubcová: 3r; 15r
+* Marie Urbánková: 3v; 15v
+* Jan Dušek: 4v; 16r
+* Barbora Doušková: 5v; 16v
+* Karolina Švecová: 6r; 17r
+* Veronika Nová: 6v; 17v
+* Linda Rudenka: 7r
+* Martina Spěváčková: 7v; 18r
+* Jana Mešková: 8r; 18v
+* Markéta Pytlíková: 8v; 19r
+* Laura Landová: 9r; 19v
+* Michaela Reimannová: 9v; 20r
+* Kateřina Kozlovská: 10r; 20v
+* Vika Veličkaite: 10v; 21r
+* Andrej Kostelník: 11r; 21v
+* Anna Javoříková: 12r; 22r
+* Diana Kostelníková: 12v; 23r
+* Věra Soukupová: 13v; 23v
 
-and corrected by Anna Michalcová, Jitka Filipová and Eliška Pěnkavová.
+* and corrected by Anna Michalcová, Jitka Filipová and Eliška Pěnkavová.
 
 Number of transcribed pages is listed above.
 
